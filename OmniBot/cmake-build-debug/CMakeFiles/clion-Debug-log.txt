@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/pi/programs/OmniBot -B /home/pi/programs/OmniBot/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/pi/programs/OmniBot/cmake-build-debug

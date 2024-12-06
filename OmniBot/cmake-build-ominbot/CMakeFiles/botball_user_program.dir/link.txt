@@ -1,0 +1,1 @@
+/usr/bin/c++   -O1 -std=c++17 -Wall -Wextra -O3 -DNDEBUG   -lboost_system -lpthread CMakeFiles/botball_user_program.dir/src/Omni.cpp.o CMakeFiles/botball_user_program.dir/src/main.cpp.o  -o ../bin/botball_user_program  /usr/local/lib/libriplib.a -lcreate -lwallaby /usr/local/lib/libspdlog.a -lpthread -lstdc++fs 

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/programs/OmniBot/src/Omni.cpp
+cmath
+-
+spdlog/spdlog.h
+-
+wallaby/wombat.h
+-
+riplib/Util.h
+-
+riplib/RIP.h
+-
+riplib/PID.h
+-
+Omni.h
+/home/pi/programs/OmniBot/src/Omni.h
+iostream
+-
+
+/home/pi/programs/OmniBot/src/Omni.h
+chrono
+-
+functional
+-
+cmath
+-
+spdlog/spdlog.h
+-
+riplib/json.hpp
+-
+riplib/Motor.h
+-
+riplib/Gyro.h
+-
+riplib/Sensor.h
+-
+
